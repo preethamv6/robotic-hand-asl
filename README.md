@@ -26,12 +26,8 @@ To bridge the communication gap between sign language users and non-signers by p
 robotic-hand-asl/
 ├── README.md
 ├── main.py
-├── images/
-│   └── hand_demo.jpg
-├── hardware/
-│   └── solidworks_model.stl
-├── docs/
-│   └── final_report.pdf
+├── hand_demo.jpg
+├── final_report.pdf
 
 ---
 
