@@ -65,7 +65,7 @@ robotic-hand-asl/
 
 (Insert images into the images/ folder and link here, e.g.,)
 
-![Robotic Hand Demo](images/hand_demo.jpg)
+![Robotic Hand Demo](hand_demo.jpg)
 
 ---
 
@@ -89,7 +89,7 @@ robotic-hand-asl/
 
 ## 📄 Full Report
 
-Refer to: [docs/final_report.pdf](docs/final_report.pdf)
+Refer to: [final_report.pdf](final_report.pdf)
 
 ---
 
